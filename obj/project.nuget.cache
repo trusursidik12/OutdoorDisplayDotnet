@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8G15xqCmo6fA6gV6yyI36DV8QRt48Kwa2mMhdqPB2zfgWL4+lT40tj69QwScsrIUdQzRFbueUN6ieDI9mYAaVQ==",
+  "dgSpecHash": "Y5EUPUBAQK8aqrSiduZ85Sd+EEtA6RBfXMb8grKmDFplCOz5062tWTeTgD3rsm4yGhNYg6zKma71aexycFrkLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dhove\\Documents\\TRUSUR\\OutdoorDisplay\\OutdoorDisplay.csproj",
+  "projectFilePath": "/home/warih/OutdoorDisplayDotnet/OutdoorDisplay.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

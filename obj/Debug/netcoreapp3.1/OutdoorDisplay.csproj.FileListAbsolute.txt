@@ -1,0 +1,13 @@
+/home/warih/OutdoorDisplayDotnet/bin/Debug/netcoreapp3.1/OutdoorDisplay
+/home/warih/OutdoorDisplayDotnet/bin/Debug/netcoreapp3.1/OutdoorDisplay.deps.json
+/home/warih/OutdoorDisplayDotnet/bin/Debug/netcoreapp3.1/OutdoorDisplay.runtimeconfig.json
+/home/warih/OutdoorDisplayDotnet/bin/Debug/netcoreapp3.1/OutdoorDisplay.runtimeconfig.dev.json
+/home/warih/OutdoorDisplayDotnet/bin/Debug/netcoreapp3.1/OutdoorDisplay.dll
+/home/warih/OutdoorDisplayDotnet/bin/Debug/netcoreapp3.1/OutdoorDisplay.pdb
+/home/warih/OutdoorDisplayDotnet/obj/Debug/netcoreapp3.1/OutdoorDisplay.csprojAssemblyReference.cache
+/home/warih/OutdoorDisplayDotnet/obj/Debug/netcoreapp3.1/OutdoorDisplay.AssemblyInfoInputs.cache
+/home/warih/OutdoorDisplayDotnet/obj/Debug/netcoreapp3.1/OutdoorDisplay.AssemblyInfo.cs
+/home/warih/OutdoorDisplayDotnet/obj/Debug/netcoreapp3.1/OutdoorDisplay.csproj.CoreCompileInputs.cache
+/home/warih/OutdoorDisplayDotnet/obj/Debug/netcoreapp3.1/OutdoorDisplay.dll
+/home/warih/OutdoorDisplayDotnet/obj/Debug/netcoreapp3.1/OutdoorDisplay.pdb
+/home/warih/OutdoorDisplayDotnet/obj/Debug/netcoreapp3.1/OutdoorDisplay.genruntimeconfig.cache
