@@ -1,0 +1,13 @@
+C:\Users\dhove\Documents\TRUSUR\OutdoorDisplay\bin\x86\Debug\netcoreapp3.1\OutdoorDisplay.exe
+C:\Users\dhove\Documents\TRUSUR\OutdoorDisplay\bin\x86\Debug\netcoreapp3.1\OutdoorDisplay.deps.json
+C:\Users\dhove\Documents\TRUSUR\OutdoorDisplay\bin\x86\Debug\netcoreapp3.1\OutdoorDisplay.runtimeconfig.json
+C:\Users\dhove\Documents\TRUSUR\OutdoorDisplay\bin\x86\Debug\netcoreapp3.1\OutdoorDisplay.runtimeconfig.dev.json
+C:\Users\dhove\Documents\TRUSUR\OutdoorDisplay\bin\x86\Debug\netcoreapp3.1\OutdoorDisplay.dll
+C:\Users\dhove\Documents\TRUSUR\OutdoorDisplay\bin\x86\Debug\netcoreapp3.1\OutdoorDisplay.pdb
+C:\Users\dhove\Documents\TRUSUR\OutdoorDisplay\obj\x86\Debug\netcoreapp3.1\OutdoorDisplay.csproj.CoreCompileInputs.cache
+C:\Users\dhove\Documents\TRUSUR\OutdoorDisplay\obj\x86\Debug\netcoreapp3.1\OutdoorDisplay.AssemblyInfoInputs.cache
+C:\Users\dhove\Documents\TRUSUR\OutdoorDisplay\obj\x86\Debug\netcoreapp3.1\OutdoorDisplay.AssemblyInfo.cs
+C:\Users\dhove\Documents\TRUSUR\OutdoorDisplay\obj\x86\Debug\netcoreapp3.1\OutdoorDisplay.dll
+C:\Users\dhove\Documents\TRUSUR\OutdoorDisplay\obj\x86\Debug\netcoreapp3.1\OutdoorDisplay.pdb
+C:\Users\dhove\Documents\TRUSUR\OutdoorDisplay\obj\x86\Debug\netcoreapp3.1\OutdoorDisplay.genruntimeconfig.cache
+C:\Users\dhove\Documents\TRUSUR\OutdoorDisplay\obj\x86\Debug\netcoreapp3.1\OutdoorDisplay.csprojAssemblyReference.cache
